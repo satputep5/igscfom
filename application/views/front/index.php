@@ -107,7 +107,7 @@
         <div class="row no-margin">
           <div class="container">                       
             <div class="col-md-12"> 
-             <h1 class="heading text-center margin-bottom-30">Job Ready Master's Program</h1> 
+             <h1 class="heading text-center margin-bottom-30">Job Ready Master's Program in Pune</h1> 
             <div class="col-md-6">
                
                 <div class="courses">                    
